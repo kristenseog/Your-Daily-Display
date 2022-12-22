@@ -24,7 +24,8 @@ input {
     font-family: inherit;
     font-size: 1rem;
     padding: 1rem;
-    min-width: 300px;
+    min-width: 400px;
+    text-align: center;
 }
 
 input:focus {
@@ -43,16 +44,60 @@ input:focus {
     margin-bottom: 0;
 }
 
+
+
 .clock {
     color: rgb(2, 254, 2);
     font-weight: bold;
-    font-size: xx-large;
+    font-size: xxx-large;
     margin-bottom: 50px;
+    text-align: center;
 }
 
 .date {
-    color: rgb(14, 171, 243);
+    color: rgb(0, 229, 255);
     font-weight: bold;
-    font-size: xx-large;
+    font-size: xxx-large;
     margin-bottom: 30px;
+    text-align: center;
+}
+
+
+
+h1 {
+    color: rgba(255, 255, 3, 0.98);
+    font-size: xxx-large;
+    text-align: center;
+    
+}
+
+listForm {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    width: 400px;
+}
+
+.todos {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.todos li {
+    color: rgba(255, 255, 3, 0.98);
+    cursor: pointer;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+}
+
+.todos li.completed {
+    color: #ec0e0e;
+    text-decoration: line-through;
+}
+
+small {
+    color: #b5b5b5;
+    margin-top: 3rem;
+    text-align: center;
 }
