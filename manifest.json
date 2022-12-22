@@ -1,0 +1,15 @@
+
+{
+    "manifest_version": 2,
+    "version": "1.0", 
+    "name": "Daily Display",
+    "browser_action": {
+        "default_popup": "index.html",
+        // "default_icon": {}
+        "default_icon": "daily.jpg"
+    },
+    
+    "permissions": [
+        "tabs"
+    ]
+}
