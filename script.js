@@ -80,6 +80,9 @@ showTime();
 let today = new Date().toLocaleDateString()
 
 console.log(today)
+let todayDate = document.getElementById("date")
+todayDate.textContent = today
+
 
 //To Do list
 
