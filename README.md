@@ -16,7 +16,7 @@ Chrome extension is alway available with JSON v3
 
 ## Screenshot
 (![image](https://user-images.githubusercontent.com/117180862/211226574-2926012c-182a-4b72-bbee-41388b5e761d.png)
-(![image]("dailyDisplay.png")
+
 
 ## Credits
 
