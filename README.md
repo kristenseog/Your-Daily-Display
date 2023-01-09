@@ -12,7 +12,7 @@ Your-Daily-Display includes:
  - Weather information searched by your city
  - to do list where you can crossoff as you complete eaCH TASK
 
-Chrome extension is alway available with JSON v3
+Chrome extension is available with JSON v3 for users to utilize daily.
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/117180862/211226574-2926012c-182a-4b72-bbee-41388b5e761d.png)
